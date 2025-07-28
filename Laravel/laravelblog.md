@@ -116,12 +116,3 @@ Your blog should showcase your understanding of these fundamental Laravel concep
 4.  Create a **Pull Request** with your solution.
 
 ---
-
-## 💡 **Stuck or Want Inspiration?**
-
-Explore these example solutions *after* attempting the challenge:
-
-*   [Laravel Roadmap Beginner: Breeze Starter Kit](https://github.com/LaravelDaily/laravel-roadmap-beginner-breeze)
-*   [Laravel Roadmap Beginner: Laravel Daily Starter Kit](https://github.com/LaravelDaily/laravel-roadmap-beginner-daily)
-
----

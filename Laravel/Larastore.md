@@ -330,8 +330,7 @@ Give a ⭐️ if this project helped you learn something new!
 **🎬 Made with ❤️ and lots of ☕ by [OrangeAcademyTeam]**
 
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/yourusername)
+
 
 ---
 

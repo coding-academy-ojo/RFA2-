@@ -683,11 +683,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **🎬 Made with ❤️ and lots of ☕ by [OrangeAcademyTeam]**
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://linkedin.com/in/yourusername)
 
----
 
 ### *"Great businesses are built on great relationships. Start managing yours today!" 🏢✨*
 

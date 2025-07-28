@@ -7,7 +7,7 @@ Welcome to the project documentation folder. Below is a list of available docume
 | :--- | :--- |
 | [..](..) | Parent directory |
 | [Larastore.md](Larastore.md) | Laravel Project |
-| [MiniAdmin.md](Mini Admin.md) | Laravel Project |
+| [MiniAdmin.md](MiniAdmin.md) | Laravel Project |
 | [laravel_api.md](laravel_api.md) | Laravel Project |
 | [netflix_clone.md](netflix_clone.md) | Laravel Project |
 | [react&laravel.md](react&laravel.md) | Laravel & React Project |

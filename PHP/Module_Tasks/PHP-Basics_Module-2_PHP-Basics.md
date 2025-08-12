@@ -1,4 +1,4 @@
-# 🐘 PHP Basics – Module 2: Exercises
+# 🐘 PHP Basics – Module 2: PHP Basics
 
 ## 🎯 Learning Goals
 

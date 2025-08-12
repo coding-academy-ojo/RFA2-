@@ -1,6 +1,6 @@
-# 🐘 PHP Basics – Module 3: Arrays and Strings
+# 🐘 Module 3: Arrays and Strings
 
-## 🎯 Learning Goals
+## 🎯 Objectives
 By the end of this module, you will:
 - Work with strings and use PHP’s built-in string functions.
 - Create, manipulate, and access arrays.

@@ -80,10 +80,3 @@ Get familiar with PHP syntax, file execution, and embedding PHP code inside HTML
   * At least one PHP variable and function call
 * A screenshot of the page in the browser.
 
----
-
-### 💡 Tip
-
-PHP scripts run on the server, so **you won’t see PHP code in "View Source"** — only the HTML it generates.
-Do you want me to add those for Module 1?
-

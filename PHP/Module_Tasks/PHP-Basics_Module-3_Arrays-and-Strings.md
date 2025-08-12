@@ -536,6 +536,16 @@ array2 = 'a','3'
 ```
 array2 is a subset array from array1
 ```
+---
+
+### 📦 Deliverables
+
+* `index.php` with:
+
+  * Simple PHP output
+  * PHP embedded inside HTML
+  * At least one PHP variable and function call
+* A screenshot of the page in the browser.
 
 ---
 

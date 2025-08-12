@@ -225,6 +225,320 @@ Count items in:
 `["pen", "pencil", "eraser", "pen"]`
 
 ---
+## **Part 2: Arrays Tasks**
+
+## 1. Generate a Paragraph Using Array Values
+**Task:**  
+Write a script to generate the following paragraph:
+
+> "The memory of that scene for me is like a frame of film forever frozen at that moment: the red carpet, the green lawn, the white house, the leaden sky. The new president and his first lady. – Richard M. Nixon"
+
+The words **red**, **green**, and **white** should come from the `$colors` array.
+
+---
+
+## 2. Display Colors as Unordered List
+```php
+$colors = array('white', 'green', 'red');
+````
+
+**Expected Output:**
+
+* green
+* red
+* white
+
+---
+
+## 3. Display Capitals and Countries Sorted by Capital Name
+
+```php
+$cities = array(
+    "Italy" => "Rome", "Luxembourg" => "Luxembourg", "Belgium" => "Brussels",
+    "Denmark" => "Copenhagen", "Finland" => "Helsinki", "France" => "Paris",
+    "Slovakia" => "Bratislava", "Slovenia" => "Ljubljana", "Germany" => "Berlin",
+    "Greece" => "Athens", "Ireland" => "Dublin", "Netherlands" => "Amsterdam",
+    "Portugal" => "Lisbon", "Spain" => "Madrid"
+);
+```
+
+**Expected Output:**
+
+```
+The capital of Netherlands is Amsterdam
+The capital of Greece is Athens
+The capital of Germany is Berlin
+...
+```
+
+---
+
+## 4. Display the First Element of an Array
+
+```php
+$color = array(4 => 'white', 6 => 'green', 11 => 'red');
+```
+
+**Expected Output:**
+
+```
+white
+```
+
+---
+
+## 5. Insert a Specific Item in an Array
+
+**Sample Input:**
+
+```
+Array: 1 2 3 4 5  
+Location: 4  
+New Item: $
+```
+
+**Expected Output:**
+
+```
+1 2 3 $ 4 5
+```
+
+---
+
+## 6. Sort Associative Array by Key (Ascending)
+
+```php
+$fruits = array("d" => "lemon", "a" => "orange", "b" => "banana", "c" => "apple");
+```
+
+**Expected Output:**
+
+```
+c = apple
+b = banana
+d = lemon
+a = orange
+```
+
+---
+
+## 7. Average Temperature & Extremes
+
+**Sample Input:**
+
+```
+78, 60, 62, 68, 71, 68, 73, 85, 66, 64, 76, 63, 75, 76, 73, 68, 
+62, 73, 72, 65, 74, 62, 62, 65, 64, 68, 73, 75, 79, 73
+```
+
+**Expected Output:**
+
+```
+Average Temperature is: 70.6
+List of seven lowest temperatures: 60, 62, 63, 63, 64, ...
+List of seven highest temperatures: 76, 78, 79, 81, 85, ...
+```
+
+---
+
+## 8. Merge Two Arrays
+
+```php
+$array1 = array("color" => "red", 2, 4);
+$array2 = array("a", "b", "color" => "green", "shape" => "trapezoid", 4);
+```
+
+**Expected Output:**
+
+```
+Array
+(
+    [color] => green
+    [0] => 2
+    [1] => 4
+    [2] => a
+    [3] => b
+    [shape] => trapezoid
+    [4] => 4
+)
+```
+
+---
+
+## 9. Convert Array Strings to Uppercase
+
+```php
+$colors = array("red","blue","white","yellow");
+```
+
+**Expected Output:**
+
+```
+RED
+BLUE
+WHITE
+YELLOW
+```
+
+---
+
+## 10. Convert Array Strings to Lowercase
+
+```php
+$colors = array("RED","BLUE","WHITE","YELLOW");
+```
+
+**Expected Output:**
+
+```
+red
+blue
+white
+yellow
+```
+
+---
+
+## 11. Numbers Between 200 and 250 Divisible by 4
+
+**Expected Output:**
+
+```
+200, 204, 208, 212, 216, 220, 224, 228, 232, 236, 240, 244, 248
+```
+
+---
+
+## 12. Shortest & Longest String Length in Array
+
+```php
+$words = array("abcd","abc","de","hjjj","g","wer");
+```
+
+**Expected Output:**
+
+```
+The shortest array length is 1. The longest array length is 4.
+```
+
+---
+
+## 13. Generate 10 Unique Random Numbers in a Range
+
+**Sample Input:**
+
+```
+Range: 11 to 20
+```
+
+**Sample Output:**
+
+```
+17 16 13 20 14 19 18 15 11 12
+```
+
+---
+
+## 14. Lowest Non-Zero Integer
+
+```php
+$array1 = array(2, 0, 10, 12, 6);
+```
+
+**Expected Output:**
+
+```
+2
+```
+
+---
+
+## 15. Sort Array of Positive Integers (Any Algorithm)
+
+**Sample Input:**
+
+```
+Array: 5, 3, 1, 3, 8, 7, 4, 1, 1, 3
+```
+
+**Expected Result:**
+
+```
+8, 7, 5, 4, 3, 3, 3, 1, 1, 1
+```
+
+---
+
+## 16. Floor Decimal Numbers with Precision
+
+**Sample Data:**
+
+```
+1.155, 2, "."
+100.25781, 4, "."
+-2.9636, 3, "."
+```
+
+**Expected Output:**
+
+```
+1.15
+100.2578
+-2.964
+```
+
+---
+
+## 17. Merge Two Comma-Separated Lists (Unique Values)
+
+**Sample Input:**
+
+```
+list1 = "4, 5, 6, 7"
+list2 = "4, 5, 7, 8"
+```
+
+**Sample Output:**
+
+```
+4, 5, 6, 7, 8
+```
+
+---
+
+## 18. Remove Duplicate Entries from Array
+
+**Sample Input:**
+
+```
+4, 5, 6, 7, 4, 7, 8
+```
+
+**Sample Output:**
+
+```
+4, 5, 6, 7, 8
+```
+
+---
+
+## 19. Check if Array is Subset of Another
+
+**Sample Input:**
+
+```
+array1 = 'a','1','2','3','4'
+array2 = 'a','3'
+```
+
+**Sample Output:**
+
+```
+array2 is a subset array from array1
+```
+
+```
+---
 
 💡 **Extra Challenge Ideas**
 - Reverse a string without using `strrev()`.

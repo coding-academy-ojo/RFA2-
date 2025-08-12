@@ -215,7 +215,7 @@ N = 8
 * A screenshot of the page in the browser.
 ---
 
-### **Extra Tips for Students**
+### **💡 Extra Tips**
 
 💡 **Naming Matters** – Use descriptive function names (e.g., `isPrimeNumber()` instead of `check()`) so your code is easier to read later.
 

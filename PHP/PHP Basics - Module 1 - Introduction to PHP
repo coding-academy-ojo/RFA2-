@@ -1,0 +1,87 @@
+# 🐘 Module 1: Introduction to PHP
+
+## 🎯 Task: Create Your First PHP Script
+
+### Objective
+
+Get familiar with PHP syntax, file execution, and embedding PHP code inside HTML.
+
+---
+
+### ✅ Requirements
+
+1. **Set Up PHP Environment**
+
+   * Install PHP (via XAMPP, MAMP, Laragon, or directly).
+   * Create a project folder (e.g., `php_intro`).
+   * Inside it, create a file named `index.php`.
+
+2. **Write Your First PHP Script**
+
+   * Open `index.php` and add:
+
+     ```php
+     <?php
+     echo "Hello, World! This is my first PHP script.";
+     ?>
+     ```
+
+3. **Embed PHP in HTML**
+
+   * Update `index.php`:
+
+     ```php
+     <!DOCTYPE html>
+     <html>
+     <head>
+         <title>My First PHP Page</title>
+     </head>
+     <body>
+         <h1>Welcome to PHP!</h1>
+         <p>
+             <?php
+             echo "Today is " . date("Y-m-d");
+             ?>
+         </p>
+     </body>
+     </html>
+     ```
+
+4. **Run the Script**
+
+   * Start your server (Apache or PHP built-in).
+   * Open the file in your browser:
+
+     ```
+     http://localhost/php_intro/index.php
+     ```
+
+5. **Experiment**
+
+   * Change the text in `echo`.
+   * Use PHP variables:
+
+     ```php
+     <?php
+     $name = "Reem";
+     echo "Hello, $name!";
+     ?>
+     ```
+   * Try different PHP functions (`date()`, `strtoupper()`, `rand()`).
+
+---
+
+### 📦 Deliverables
+
+* `index.php` with:
+
+  * Simple PHP output
+  * PHP embedded inside HTML
+  * At least one PHP variable and function call
+* A screenshot of the page in the browser.
+
+---
+
+### 💡 Tip
+
+PHP scripts run on the server, so **you won’t see PHP code in "View Source"** — only the HTML it generates.

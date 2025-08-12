@@ -537,7 +537,6 @@ array2 = 'a','3'
 array2 is a subset array from array1
 ```
 
-```
 ---
 
 💡 **Extra Challenge Ideas**

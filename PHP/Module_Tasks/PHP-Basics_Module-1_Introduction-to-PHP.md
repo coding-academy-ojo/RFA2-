@@ -1,13 +1,11 @@
 # 🐘 Module 1: Introduction to PHP
 
-## 🎯 Task: Create Your First PHP Script
-
-### Objective
+### 🎯 Objectives
 
 Get familiar with PHP syntax, file execution, and embedding PHP code inside HTML.
 
 ---
-
+## 🎯 Task: Create Your First PHP Script
 ### ✅ Requirements
 
 1. **Set Up PHP Environment**

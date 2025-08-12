@@ -163,5 +163,4 @@ You will practice:
     A B C
     A B
     ```
-Do you want me to prepare it in that exact polished format?
 

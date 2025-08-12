@@ -232,6 +232,16 @@ By the end of these exercises, you will:
 
 ---
 
+### 📦 Deliverables
+
+* `index.php` with:
+
+  * Simple PHP output
+  * PHP embedded inside HTML
+  * At least one PHP variable and function call
+* A screenshot of the page in the browser.
+---
+
 💡 **Extra Challenge Tasks**
 
 * Create a script that takes two numbers and tells which one is bigger.

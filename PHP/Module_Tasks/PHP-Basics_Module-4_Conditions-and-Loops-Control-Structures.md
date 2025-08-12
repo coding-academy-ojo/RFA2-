@@ -163,4 +163,14 @@ You will practice:
     A B C
     A B
     ```
+---
+
+### 📦 Deliverables
+
+* `index.php` with:
+
+  * Simple PHP output
+  * PHP embedded inside HTML
+  * At least one PHP variable and function call
+* A screenshot of the page in the browser.
 

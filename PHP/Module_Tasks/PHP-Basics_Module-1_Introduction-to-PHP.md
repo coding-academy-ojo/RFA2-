@@ -1,7 +1,6 @@
 # 🐘 Module 1: Introduction to PHP
 
-### 🎯 Objectives
-
+## 🎯 Objectives
 Get familiar with PHP syntax, file execution, and embedding PHP code inside HTML.
 
 ---

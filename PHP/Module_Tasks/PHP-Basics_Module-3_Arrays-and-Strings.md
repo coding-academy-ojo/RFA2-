@@ -225,7 +225,7 @@ Count items in:
 `["pen", "pencil", "eraser", "pen"]`
 
 ---
-## **Part 2: Arrays Tasks**
+## **Part 3: Arrays Advance**
 
 ## 1. Generate a Paragraph Using Array Values
 **Task:**  

@@ -88,5 +88,3 @@ Perform the following tasks:
    * Database structure
    * Chosen data types
    * How normalization was applied.
-
----

@@ -2,7 +2,7 @@
 
 ## 🎯 Objectives
 
-By the end of these exercises, you will:
+By the end of these Tasks, you will:
 
 * Understand variables, constants, and data types.
 * Use operators for calculations and logic.
@@ -11,7 +11,7 @@ By the end of these exercises, you will:
 
 ---
 
-## 📝 **Exercise 1: Hello PHP Variables**
+## 📝 **Task 1: Hello PHP Variables**
 
 1. Create a file `variables.php`.
 2. Create variables for:
@@ -28,7 +28,7 @@ By the end of these exercises, you will:
 
 ---
 
-## 📝 **Exercise 2: Concatenation Practice**
+## 📝 **Task 2: Concatenation Practice**
 
 1. Create `concat.php`.
 2. Store first name and last name in separate variables.
@@ -45,7 +45,7 @@ By the end of these exercises, you will:
 
 ---
 
-## 📝 **Exercise 3: Constants**
+## 📝 **Task 3: Constants**
 
 1. Create `constants.php`.
 2. Define a constant for `SITE_NAME` using:
@@ -62,7 +62,7 @@ By the end of these exercises, you will:
 
 ---
 
-## 📝 **Exercise 4: Arithmetic Operators**
+## 📝 **Task 4: Arithmetic Operators**
 
 1. Create `math.php`.
 2. Create two variables: `$a = 15`, `$b = 4`.
@@ -83,7 +83,7 @@ By the end of these exercises, you will:
 
 ---
 
-## 📝 **Exercise 5: Assignment Operators**
+## 📝 **Task 5: Assignment Operators**
 
 1. Create `assignment.php`.
 2. Start with `$num = 10`.
@@ -99,7 +99,7 @@ By the end of these exercises, you will:
 
 ---
 
-## 📝 **Exercise 6: Comparison Operators**
+## 📝 **Task 6: Comparison Operators**
 
 1. Create `comparison.php`.
 2. Compare two numbers using:
@@ -113,7 +113,7 @@ By the end of these exercises, you will:
 
 ---
 
-## 📝 **Exercise 7: Increment & Decrement**
+## 📝 **Task 7: Increment & Decrement**
 
 1. Create `increment.php`.
 2. Start with `$count = 5`.
@@ -128,7 +128,7 @@ By the end of these exercises, you will:
 
 ---
 
-## 📝 **Exercise 8: Logical Operators**
+## 📝 **Task 8: Logical Operators**
 
 1. Create `logic.php`.
 2. Set:
@@ -150,7 +150,7 @@ By the end of these exercises, you will:
 
 ---
 
-## 📝 **Exercise 9: Data Types Check**
+## 📝 **Task 9: Data Types Check**
 
 1. Create `types.php`.
 2. Make variables:
@@ -165,7 +165,7 @@ By the end of these exercises, you will:
 
 ---
 
-## 📝 **Exercise 10: Type Casting**
+## 📝 **Task 10: Type Casting**
 
 1. Create `casting.php`.
 2. Cast a float to an integer:
@@ -178,7 +178,7 @@ By the end of these exercises, you will:
 
 ---
 
-## 📝 **Exercise 11: Swapping Variables**
+## 📝 **Task 11: Swapping Variables**
 
 1. Create `swap.php`.
 2. Store `$x = 5`, `$y = 10`.
@@ -186,7 +186,7 @@ By the end of these exercises, you will:
 
 ---
 
-## 📝 **Exercise 12: Small Calculator**
+## 📝 **Task 12: Small Calculator**
 
 1. Create `calculator.php`.
 2. Define `$num1` and `$num2`.
@@ -194,7 +194,7 @@ By the end of these exercises, you will:
 
 ---
 
-## 📝 **Exercise 13: Temperature Converter**
+## 📝 **Task 13: Temperature Converter**
 
 1. Create `temperature.php`.
 2. Convert Celsius to Fahrenheit:
@@ -207,7 +207,7 @@ By the end of these exercises, you will:
 
 ---
 
-## 📝 **Exercise 14: String Functions Practice**
+## 📝 **Task 14: String Functions Practice**
 
 1. Create `string_functions.php`.
 2. Use:
@@ -220,7 +220,7 @@ By the end of these exercises, you will:
 
 ---
 
-## 📝 **Exercise 15: PHP Info**
+## 📝 **Task 15: PHP Info**
 
 1. Create `info.php`.
 2. Use:

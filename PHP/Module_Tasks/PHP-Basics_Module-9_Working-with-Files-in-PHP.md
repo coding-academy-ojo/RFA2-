@@ -1,13 +1,14 @@
 # 🐘 Module 9: Working with Files in PHP
 
 ## 🎯 Objectives
-By the end of this module, you will be able to:
 
-*Open, read, and write files using PHP functions.
-*Understand and manage file permissions.
-*Create a basic file upload form in HTML and handle uploads in PHP.
-*Implement basic file validation for security.
-*Detect and handle file-related errors gracefully.
+* By the end of this module, you will be able to:
+
+  * Open, read, and write files using PHP functions.
+  * Understand and manage file permissions.
+  * Create a basic file upload form in HTML and handle uploads in PHP.
+  * Implement basic file validation for security.
+  * Detect and handle file-related errors gracefully.
 
 **Task 1: Writing to a File**
 

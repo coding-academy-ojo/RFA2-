@@ -4,6 +4,8 @@
 
 Use PHP DOM manipulation and an array of products (provided in `index.php`) to display a collection of mobile phones in card format using **Boosted** (Orange's Bootstrap-based framework).
 
+<img width="1920" height="3701" alt="screencapture-eshop-orange-jo-en-devices-accessories-mobile-phone-2025-08-13-12_07_23" src="https://github.com/user-attachments/assets/1dc0abb2-37d9-4df3-8ad7-cf344418fcfc" />
+
 ---
 ## 🎯 Task: Display Cards using PHP
 

@@ -5,7 +5,6 @@
 * Understand how HTML forms work with PHP.
 * Learn the difference between **`$_GET`** and **`$_POST`**.
 * Perform **server-side validation**.
-* Prevent **XSS** and **form injection** attacks.
 * Handle different types of form inputs (text, password, email, radio, checkbox, select, textarea).
 * Give user-friendly feedback after submission.
 
@@ -60,18 +59,6 @@ Create a form with:
 * Email must be valid format.
 * Password and Confirm Password must match.
 
----
-
-### **Task 5 – Contact Form with Sanitization**
-
-Create a form that takes:
-
-* Name
-* Email
-* Message
-  PHP should:
-* **Sanitize** inputs using `htmlspecialchars()` and `filter_var()`.
-* Prevent HTML/script tags from being executed.
 
 ---
 ## 📦 **Deliverables**
@@ -80,8 +67,7 @@ By the end of this module, you will submit:
 
 * PHP scripts that handle **form submission** using `$_GET` and `$_POST`.
 * At least **4 different form examples** (login, feedback, calculator, registration).
-* Demonstrations of **input validation** and **sanitization**.
-* One example preventing **form injection**.
+* Demonstrations of **input validation** .
 
 ---
 ## 💡 **Tips**

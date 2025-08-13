@@ -10,7 +10,7 @@
 
 ---
 
-## 🎯 Goal
+## 🎯 Goal & Objectives
 
 Design and implement a relational database for a company using MySQL.
 You will apply fundamental database concepts (RDBMS, data models, normalization) and practice creating databases, tables, relationships, inserting data, and writing basic SQL queries.

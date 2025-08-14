@@ -1,0 +1,173 @@
+# JS Capstone Project 3
+
+## 🧳 Travel – Travel Bucket List & Weather Dashboard - Web Application
+
+### 📋 Brief
+Build a web application that allows users to create a travel bucket list of destinations they want to visit, mark places they have visited, and fetch live weather data for each location. This project will help you practice **JavaScript ES5 to ES6+**, **DOM manipulation**, **JSON**, **fetch API**, and **web storage** concepts while integrating them into a complete project.
+
+---
+
+## 🛠 Skills and Knowledge Required
+By the end of this project, you should be able to:
+- Build and manipulate dynamic UI using HTML, CSS, and JavaScript.
+- Use ES5 & ES6 syntax effectively in a real-world project.
+- Fetch data from REST APIs using the `fetch()` method.
+- Store and retrieve persistent data using `localStorage`.
+- Manage session-specific data with `sessionStorage`.
+- Parse and manipulate data in JSON format.
+- Apply loops, conditional statements, and functions for application logic.
+- Structure and organize code for readability and maintainability.
+
+---
+
+## 🎯 Project Context
+Traveling is a passion for many people. This project allows users to list and track destinations, view weather information, and manage their travel plans effectively in one place. It combines data storage, API integration, and user interaction for a practical application.
+
+---
+
+## 📌 Project Requirements
+
+### 1. Core Features
+- **Destination Management**
+  - Add new travel destinations with a name, country, and optional notes.
+  - Mark destinations as "Visited" or "To Visit".
+  - Delete destinations from the list.
+- **Weather Data Integration**
+  - Fetch and display live weather data for a destination using a weather API.
+  - Show temperature, weather description, and an icon.
+- **Persistent Storage**
+  - Save destinations to `localStorage` so they remain after a page refresh.
+  - Use `sessionStorage` to store and display the last accessed destination.
+- **UI/UX**
+  - Interactive and responsive design.
+  - Clear separation between "Visited" and "To Visit" lists.
+
+---
+
+### 2. Additional Requirements
+- Apply ES5 and ES6 features (e.g., `let`, `const`, arrow functions, template literals, destructuring).
+- Validate user input before adding a destination.
+- Use loops to display the list of destinations.
+- Implement conditional rendering for empty lists.
+- Convert all stored data to JSON before saving, and parse when retrieving.
+
+---
+
+## 📊 Assessment Breakdown
+
+| Criteria              | Description |
+|-----------------------|-------------|
+| **Functionality**     | Application works as described, with all features implemented. |
+| **Code Quality**      | Code is clean, readable, and follows JavaScript best practices. |
+| **ES5 & ES6 Usage**   | Proper use of ES5 and ES6 syntax where applicable. |
+| **DOM Manipulation**  | Correctly uses DOM API to update the interface dynamically. |
+| **API Integration**   | Successfully fetches and displays weather data from API. |
+| **Web Storage**       | Correct implementation of `localStorage` and `sessionStorage`. |
+| **JSON Handling**     | Proper use of JSON parsing and stringifying. |
+| **Creativity**        | Additional features, good UI, or extra functionality beyond requirements. |
+
+---
+
+## 🧾 Assessment Notes
+- All features should be functional.
+- The app must handle **API fetch errors** gracefully (e.g., network issues, invalid location).
+- Mobile responsiveness is encouraged but not required.
+- Use clear comments to explain your logic.
+- You are free to choose any public weather API (e.g., OpenWeatherMap API).
+
+---
+
+## ✅ Assessment Criteria
+Your project will be assessed based on:
+1. **Code Execution**
+   - Application runs without errors.
+   - All functionalities work as intended.
+2. **JavaScript Skills**
+   - Correct use of DOM methods.
+   - Logical use of loops, functions, and conditionals.
+3. **API Fetching**
+   - Uses `fetch()` properly.
+   - Handles API responses and errors.
+4. **Data Handling**
+   - Saves and retrieves data from `localStorage` and `sessionStorage`.
+   - Uses JSON parsing/stringifying where needed.
+5. **Code Quality**
+   - Uses ES6 features effectively.
+   - Code is organized and readable.
+
+---
+
+## 🧪 Review & Check Before Submission
+
+| Feature               | Completed | Notes |
+|-----------------------|-----------|-------|
+| Add destination       | ☐         |       |
+| Delete destination    | ☐         |       |
+| Mark as visited       | ☐         |       |
+| Fetch weather data    | ☐         |       |
+| Display weather info  | ☐         |       |
+| Save to localStorage  | ☐         |       |
+| Last accessed (sessionStorage) | ☐  |       |
+| Use ES6 features      | ☐         |       |
+| Handle API errors     | ☐         |       |
+| Responsive UI         | ☐         |       |
+
+---
+
+## 🛠 Suggested Tools & Technologies
+- **Editor**: Visual Studio Code
+- **Browser**: Chrome / Firefox (Developer Edition)
+- **Version Control**: Git & GitHub
+- **Live Preview**: VS Code Live Server extension
+
+---
+
+## 📈 Technical Assessment Method (Structured)
+
+### For `index.html`:
+1. Create the HTML structure with:
+   - Input field and button for adding destinations.
+   - Lists for "To Visit" and "Visited".
+   - Section for weather data.
+2. Link `style.css` and `script.js` files.
+
+### For `style.css`:
+1. Basic styling for layout.
+2. Classes for visited destinations.
+3. Styles for weather display.
+
+### For `script.js`:
+1. Initialize arrays for storing destinations.
+2. Load saved data from `localStorage`.
+3. Add event listeners for:
+   - Adding a destination.
+   - Marking a destination as visited.
+   - Deleting a destination.
+4. Fetch weather data using API.
+5. Update DOM dynamically with:
+   - Destination list.
+   - Weather details.
+6. Save updates to `localStorage` after every change.
+7. Save last accessed destination to `sessionStorage`.
+
+---
+
+## 🧪 Testing & Debugging
+- Add a few destinations and verify:
+  - They appear in the correct list.
+  - Weather data loads for each.
+- Refresh the page to ensure data persistence.
+- Open console to check for errors.
+- Test error handling by entering invalid destinations.
+
+---
+
+## 📤 Deliverables
+- A GitHub repository containing:
+  - `index.html`, `style.css`, `script.js`
+  - Any additional assets (icons, images, etc.).
+  - README.md describing the project.
+- Live demo link (GitHub Pages or similar).
+- A short video walkthrough of the application.
+
+---

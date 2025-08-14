@@ -2,13 +2,12 @@
 
 | #   | Module Name                              | Module Task Link |
 |-----|-------------------------------------------|------------------|
-| 1   | 🎨 Introduction to CSS                    | [Read Module Task](./module-1.md) |
-| 2   | ✅ Selectors, Box Model & Units            | [Read Module Task](./module-2.md) |
-| 3   | 🖼️ Typography & Visual Styling             | [Read Module Task](./module-3.md) |
-| 4   | 🔝 CSS Architecture & Best Practices       | [Read Module Task](./module-4.md) |
-| 5   | 🧱 Layout Techniques                       | [Read Module Task](./module-5.md) |
-| 6   | 📱 Flexbox                                 | [Read Module Task](./module-6.md) |
-| 7   | 𝄜 CSS Grid                                 | [Read Module Task](./module-7.md) |
-| 8   | 🔄 Responsive Design                       | [Read Module Task](./module-8.md) |
-| 9   | 🎋 Animations & Transitions                | [Read Module Task](./module-9.md) |
-| 10  | 🎓 Final Project                           | [Read Module Task](Final_project.md) |
+| 1   | ✅ Selectors, Box Model & Units           | [Read Module Task](./Module_Task/CSS_Selectors_Box_Model_Units.md) |
+| 2   | 🖼️ Typography & Visual Styling            | [Read Module Task](./Module_Task/Typography_Visual_Styling.md) |
+| 3   | 🔝 CSS Architecture & Best Practices      | [Read Module Task](./Module_Task/CSS_Architecture_Best_Practices.md) |
+| 4   | 🧱 Layout Techniques                     | [Read Module Task](./Module_Task/Layout_Techniques.md) |
+| 5   | 📱 Flexbox                               | [Read Module Task](./Module_Task/Flex.md) |
+| 6   | 𝄜 CSS Grid                              | [Read Module Task](./Module_Task/Grid.md) |
+| 7   | 🔄 Responsive Design                   | [Read Module Task](./Module_Task/Resposive_design.md) |
+| 8   | 🎋 Animations & Transitions             | [Read Module Task](./Module_Task/Animations_Transitions.md) | 
+| 9   | 🎓 Final Project              | [Read Module Task](./Project/Final_project.md) |

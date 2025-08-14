@@ -1,4 +1,4 @@
-# 📌 Advanced SQL Practice – GitHub Tasks
+# 🗃️ Task 2: Advanced SQL (DDL & DML tasks)
 
 ## Modules Covered
 

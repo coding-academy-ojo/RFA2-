@@ -1,4 +1,4 @@
-# 🗃️ Task 2: Advanced SQL (DDL & DML tasks)
+# 🗃️ Task 3: Advanced SQL (DDL & DML tasks)
 
 ## Modules Covered
 
@@ -7,7 +7,7 @@
 3. Model8: Data Querying Techniques
 
 ---
-## **Task 1: School Management System Database**
+## **Excercise 1: School Management System Database**
 
 ### 🎯 Objectives
 
@@ -127,7 +127,7 @@ INSERT INTO Enrollments (StudentID, ClassID, EnrollmentDate) VALUES
 
 ---
 
-## **Task 2: Library Database Operations**
+## **Excercise 2: Library Database Operations**
 
 ### 🎯 Objectives
 
@@ -263,7 +263,7 @@ INSERT INTO BorrowedBooks (BookID, MemberID, BorrowDate, ReturnDate) VALUES
 
 ---
 
-## **Task 3: Member Borrowing Analysis**
+## **Excercise 3: Member Borrowing Analysis**
 
 ### 🎯 Objectives
 
@@ -302,7 +302,7 @@ INSERT INTO BorrowedBooks (BookID, MemberID, BorrowDate, ReturnDate) VALUES
 
 ---
 
-## **Task 4: Advanced Library Queries**
+## **Excercise 4: Advanced Library Queries**
 
 ### 🎯 Objectives
 

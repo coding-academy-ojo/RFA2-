@@ -7,7 +7,7 @@
 3. Model8: Data Querying Techniques
 
 ---
-## **Task 1: School Database Management**
+## **Task 1: School Management System Database**
 
 ### 🎯 Objectives
 
@@ -337,6 +337,3 @@ INSERT INTO BorrowedBooks (BookID, MemberID, BorrowDate, ReturnDate) VALUES
 * Use subqueries or joins to filter borrowed books for certain members.
 * Test joins to avoid duplicate rows.
 * Be consistent with date comparisons (`YYYY-MM-DD`).
-
----
-

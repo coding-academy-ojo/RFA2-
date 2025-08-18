@@ -1,13 +1,11 @@
----
+# **Module 03 – Loops**
 
-# **Module 03 – Loops**  
+````markdown
+# 🟦 Module 03: Loops
 
-```markdown
-# 🟦 Module 03: Loops  
+## 🎯 Task: Multiplication Table Generator (Console App)
 
-## 🎯 Task: Multiplication Table Generator (Console App)  
-
-Generate a multiplication table for a given number up to 12.  
+Generate a multiplication table for a given number up to 12.
 
 ---
 
@@ -32,8 +30,8 @@ Table of 5:
 5 x 12 = 60
 
 Do you want another table? (y/n): y
-
 ```
+````
 
 ---
 

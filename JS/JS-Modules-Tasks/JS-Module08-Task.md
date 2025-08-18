@@ -1,8 +1,6 @@
----
-
 # **Module 08 – Working with APIs**
 
-```markdown
+````markdown
 # 🟦 Module 08: Working with APIs
 
 ## 🎯 Task: Random Joke Generator
@@ -50,6 +48,7 @@ Build a webpage that fetches random jokes from a public API and displays them.
   </body>
 </html>
 ```
+````
 
 ---
 

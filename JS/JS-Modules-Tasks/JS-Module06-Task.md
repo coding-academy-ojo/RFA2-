@@ -1,8 +1,6 @@
----
-
 # **Module 06 – JSON**
 
-```markdown
+````markdown
 # 🟦 Module 06: JSON
 
 ## 🎯 Task: Student Records Parser (Console App)
@@ -34,6 +32,7 @@ students.push({ name: "Omar", age: 21, grade: "C" });
 
 console.log(JSON.stringify(students));
 ```
+````
 
 ---
 

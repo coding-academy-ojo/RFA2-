@@ -1,13 +1,11 @@
----
+# **Module 02 – Conditional Statements**
 
-# **Module 02 – Conditional Statements**  
+````markdown
+# 🟦 Module 02: Conditional Statements
 
-```markdown
-# 🟦 Module 02: Conditional Statements  
+## 🎯 Task: Student Grading System (Console App)
 
-## 🎯 Task: Student Grading System (Console App)  
-
-Create a grading program that converts numeric scores into letter grades.  
+Create a grading program that converts numeric scores into letter grades.
 
 ---
 
@@ -34,6 +32,7 @@ Output: Grade B – Good job!
 Enter score: 45
 Output: Grade F – Needs improvement.
 ```
+````
 
 ---
 

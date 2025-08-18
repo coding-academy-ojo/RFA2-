@@ -1,8 +1,6 @@
----
-
 # **Module 07 – JavaScript ES6**
 
-```markdown
+````markdown
 # 🟦 Module 07: JavaScript ES6
 
 ## 🎯 Task: Product Inventory Manager (Console App)
@@ -36,6 +34,7 @@ inventory.listProducts();
 
 inventory.removeProduct("Phone");
 ```
+````
 
 ---
 

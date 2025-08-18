@@ -1,6 +1,3 @@
-# **Module 07 – JavaScript ES6**
-
-````markdown
 # 🟦 Module 07: JavaScript ES6
 
 ## 🎯 Task: Product Inventory Manager (Console App)
@@ -34,7 +31,8 @@ inventory.listProducts();
 
 inventory.removeProduct("Phone");
 ```
-````
+
+```
 
 ---
 
@@ -44,3 +42,4 @@ inventory.removeProduct("Phone");
 - Using ES6 syntax: let/const, arrow functions, template literals.
 - Implementing destructuring assignment.
 - Organizing logic in a modern ES6 way.
+```

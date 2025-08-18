@@ -1,6 +1,3 @@
-# **Module 09 – Web Storage**
-
-````markdown
 # 🟦 Module 09: Web Storage (localStorage & sessionStorage)
 
 ## 🎯 Task: Notes App with Persistence
@@ -54,7 +51,8 @@ Build a notes app where users can write notes, and the app saves them using **We
   </body>
 </html>
 ```
-````
+
+```
 
 ---
 
@@ -64,3 +62,4 @@ Build a notes app where users can write notes, and the app saves them using **We
 - Using sessionStorage for temporary session data.
 - Persisting data across page reloads.
 - Rendering stored data dynamically.
+```

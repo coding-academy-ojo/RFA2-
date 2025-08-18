@@ -1,6 +1,3 @@
-# **Module 06 – JSON**
-
-````markdown
 # 🟦 Module 06: JSON
 
 ## 🎯 Task: Student Records Parser (Console App)
@@ -32,7 +29,8 @@ students.push({ name: "Omar", age: 21, grade: "C" });
 
 console.log(JSON.stringify(students));
 ```
-````
+
+```
 
 ---
 
@@ -42,3 +40,4 @@ console.log(JSON.stringify(students));
 - Converting between JSON and JavaScript objects.
 - Iterating over parsed data.
 - Preparing data for storage or API communication.
+```

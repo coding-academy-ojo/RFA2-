@@ -1,6 +1,3 @@
-# **Module 02 – Conditional Statements**
-
-````markdown
 # 🟦 Module 02: Conditional Statements
 
 ## 🎯 Task: Student Grading System (Console App)
@@ -32,6 +29,7 @@ Output: Grade B – Good job!
 Enter score: 45
 Output: Grade F – Needs improvement.
 ```
+
 ````
 
 ---
@@ -45,3 +43,4 @@ Output: Grade F – Needs improvement.
 ```
 
 ```
+````

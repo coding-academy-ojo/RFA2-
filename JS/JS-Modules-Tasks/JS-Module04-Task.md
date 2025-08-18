@@ -1,6 +1,3 @@
-# **Module 04 – DOM Manipulation**
-
-````markdown
 # 🟦 Module 04: DOM Manipulation
 
 ## 🎯 Task: To-Do List App (Basic)
@@ -55,7 +52,8 @@ Create a simple To-Do List app where users can add tasks, mark them as complete,
   </body>
 </html>
 ```
-````
+
+```
 
 ---
 
@@ -64,3 +62,4 @@ Create a simple To-Do List app where users can add tasks, mark them as complete,
 - DOM selection & manipulation.
 - Event handling (click, input).
 - Adding and removing elements dynamically.
+```

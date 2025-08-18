@@ -1,6 +1,3 @@
-# **Module 03 – Loops**
-
-````markdown
 # 🟦 Module 03: Loops
 
 ## 🎯 Task: Multiplication Table Generator (Console App)
@@ -31,7 +28,8 @@ Table of 5:
 
 Do you want another table? (y/n): y
 ```
-````
+
+```
 
 ---
 
@@ -40,3 +38,4 @@ Do you want another table? (y/n): y
 - Writing for and while loops.
 - Generating repeated output.
 - Storing results in arrays of objects
+```

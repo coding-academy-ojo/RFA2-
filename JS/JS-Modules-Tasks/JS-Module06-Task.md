@@ -32,7 +32,7 @@ console.log(JSON.stringify(students));
 
 ---
 
-🧠 Learning Outcomes
+## 🧠 Learning Outcomes
 
 - Understanding JSON structure.
 - Converting between JSON and JavaScript objects.

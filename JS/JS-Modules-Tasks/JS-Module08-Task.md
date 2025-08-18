@@ -46,8 +46,6 @@ Build a webpage that fetches random jokes from a public API and displays them.
 </html>
 ```
 
-```
-
 ---
 
 ## 🧠 Learning Outcomes
@@ -56,4 +54,3 @@ Build a webpage that fetches random jokes from a public API and displays them.
 - Handling promises with .then() / .catch().
 - Updating the DOM with API data.
 - Error handling for failed requests.
-```

@@ -29,8 +29,6 @@ Table of 5:
 Do you want another table? (y/n): y
 ```
 
-```
-
 ---
 
 ## 🧠 Learning Outcomes
@@ -38,4 +36,3 @@ Do you want another table? (y/n): y
 - Writing for and while loops.
 - Generating repeated output.
 - Storing results in arrays of objects
-```

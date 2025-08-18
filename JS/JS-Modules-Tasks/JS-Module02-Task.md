@@ -30,8 +30,6 @@ Enter score: 45
 Output: Grade F – Needs improvement.
 ```
 
-````
-
 ---
 
 ## 🧠 Learning Outcomes
@@ -39,8 +37,3 @@ Output: Grade F – Needs improvement.
 - Conditional logic (if-else).
 - Input validation.
 - Logical flow for decision-making.
-
-```
-
-```
-````

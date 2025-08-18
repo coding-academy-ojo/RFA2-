@@ -30,8 +30,6 @@ students.push({ name: "Omar", age: 21, grade: "C" });
 console.log(JSON.stringify(students));
 ```
 
-```
-
 ---
 
 🧠 Learning Outcomes
@@ -40,4 +38,3 @@ console.log(JSON.stringify(students));
 - Converting between JSON and JavaScript objects.
 - Iterating over parsed data.
 - Preparing data for storage or API communication.
-```

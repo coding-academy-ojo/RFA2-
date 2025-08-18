@@ -32,8 +32,6 @@ inventory.listProducts();
 inventory.removeProduct("Phone");
 ```
 
-```
-
 ---
 
 ## 🧠 Learning Outcomes
@@ -42,4 +40,3 @@ inventory.removeProduct("Phone");
 - Using ES6 syntax: let/const, arrow functions, template literals.
 - Implementing destructuring assignment.
 - Organizing logic in a modern ES6 way.
-```

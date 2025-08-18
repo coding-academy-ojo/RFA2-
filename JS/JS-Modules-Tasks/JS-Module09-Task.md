@@ -52,8 +52,6 @@ Build a notes app where users can write notes, and the app saves them using **We
 </html>
 ```
 
-```
-
 ---
 
 ## 🧠 Learning Outcomes
@@ -62,4 +60,3 @@ Build a notes app where users can write notes, and the app saves them using **We
 - Using sessionStorage for temporary session data.
 - Persisting data across page reloads.
 - Rendering stored data dynamically.
-```

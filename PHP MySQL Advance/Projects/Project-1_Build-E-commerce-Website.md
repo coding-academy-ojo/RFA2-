@@ -1,7 +1,7 @@
 # Project 1 | Build E-commerce Website
 ## Project Overview
+<img width="1281" height="720" alt="p1" src="https://github.com/user-attachments/assets/7a3ccf02-9aa6-4e16-a7e6-53bad540c2d4" />
 
-![image.png](attachment:2344f90b-fd99-4a68-87f6-428d12cca2d6:image.png)
 
 The E-commerce Website is a comprehensive web application designed to provide users with an online shopping experience. This system allows customers to browse products, add items to cart, and complete purchases while providing administrators with tools to manage products, users, and monitor sales.
 
@@ -148,7 +148,7 @@ As specified in the assessment criteria table:
 
 - [W3Schools PHP](https://www.w3schools.com/php/)
 - [How to Create E-commerce Website in PHP](https://www.youtube.com/results?search_query=how+to+create+ecommerce+website+in+php)
-- Open-source Admin & E-commerce Bootstrap Templates
+- [Open-source Admin & E-commerce Bootstrap Templates] (https://startbootstrap.com/)
 
 ## Important Notes
 

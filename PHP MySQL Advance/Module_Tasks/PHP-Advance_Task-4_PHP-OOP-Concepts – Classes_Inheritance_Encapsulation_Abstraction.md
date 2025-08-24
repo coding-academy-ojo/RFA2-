@@ -23,7 +23,7 @@ Learn and practice **core Object-Oriented Programming (OOP) concepts in PHP**:
 
 ## Steps
 
-### ** 1: Class and Object Creation**
+### ** Part 1: Class and Object Creation**
 
 * Create a `Car` class with properties:
 
@@ -38,7 +38,7 @@ Learn and practice **core Object-Oriented Programming (OOP) concepts in PHP**:
 
 ---
 
-### ** 2: Inheritance and Polymorphism**
+### ** Part 2: Inheritance and Polymorphism**
 
 * Create a `Vehicle` base class with property:
 
@@ -58,7 +58,7 @@ Learn and practice **core Object-Oriented Programming (OOP) concepts in PHP**:
 
 ---
 
-### ** 3: Encapsulation**
+### ** Part 3: Encapsulation**
 
 * Modify the `Car` class:
 
@@ -71,7 +71,7 @@ Learn and practice **core Object-Oriented Programming (OOP) concepts in PHP**:
 
 ---
 
-### ** 4: Abstraction**
+### ** Part 4: Abstraction**
 
 * Create an **abstract class** `Shape` with abstract method:
 

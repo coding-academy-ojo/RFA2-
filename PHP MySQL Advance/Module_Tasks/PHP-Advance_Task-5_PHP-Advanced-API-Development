@@ -1,0 +1,125 @@
+# Task 5: PHP Advanced API Development
+
+## Modules Covered
+
+* Module 5: Connecting PHP with MySQL
+* Module 6: CRUD Operations with PHP & MySQL
+* Module 8: Authentication and Login System
+* Module 9: Creating a Database Class in PHP
+* Module 14: Advanced CRUD Features (MySQLi + OOP)
+* PHP & External APIs (cURL / file\_get\_contents / Guzzle)
+
+---
+
+## 🎯 Goal
+
+Build a set of **REST APIs in PHP** that return JSON data for your **eCommerce project** and also consume external APIs (YouTube API and Pokémon API).
+
+You will:
+
+1. Expose your user and product data as a REST API.
+2. Build authentication endpoints for login.
+3. Consume YouTube and Pokémon APIs to display external data.
+
+---
+
+## Steps
+
+### **Part 1: Simple REST API for eCommerce**
+
+1. **Setup Database**
+
+   * Reuse the **users** and **products** tables from your eCommerce project.
+
+2. **Return All Users**
+
+   * Endpoint: `GET /users`
+   * Returns JSON list of all users.
+
+3. **Return Specific User**
+
+   * Endpoint: `GET /users/{id}`
+   * Example: `localhost/api/users/1`
+   * Return JSON details for the given user ID.
+
+4. **Create New User**
+
+   * Endpoint: `POST /users`
+   * Accept JSON body with user data.
+   * Return:
+
+     * **201 Created** if successful
+     * Proper error code (400/500) if failed
+
+5. **Login Authentication**
+
+   * Endpoint: `POST /login`
+   * Validate email + password.
+   * Return JSON:
+
+     * `{ "authenticated": true }` with **200 OK** if valid
+     * `{ "authenticated": false }` with **401 Unauthorized** if invalid
+
+6. **Search Products**
+
+   * Endpoint: `GET /products/search?name=...`
+   * Return matching products in JSON.
+
+---
+
+### **Part 2: YouTube API Integration**
+
+1. Create a `youtube.php` page with a search form.
+2. Use YouTube Data API v3 to fetch videos based on keywords.
+
+   * Example API call:
+
+     ```
+     https://www.googleapis.com/youtube/v3/search?part=snippet&q=KEYWORD&type=video&key=YOUR_API_KEY
+     ```
+3. Display results as **Bootstrap cards** with:
+
+   * Title
+   * Thumbnail
+   * Channel name
+   * Link to video
+4. Show the **total count** of results at the top.
+
+---
+
+### **Part 3: Pokémon API Integration**
+
+1. Create `pokemon.php` page with a search form.
+2. Connect to Pokémon API:
+
+   ```
+   https://pokeapi.co/api/v2/pokemon/{pokemon-name}
+   ```
+3. Display result as a **card** with:
+
+   * Pokémon name
+   * Picture (sprites)
+   * Basic information (height, weight, abilities)
+
+---
+
+## 📦 Deliverables
+
+* `api/users.php` → Get all users / specific user
+* `api/create_user.php` → Create new user
+* `api/login.php` → Login authentication
+* `api/search_products.php` → Search product by name
+* `youtube.php` → YouTube API search + card results
+* `pokemon.php` → Pokémon API search + results card
+* `config.php` → Database connection file
+* README.md → Explaining API endpoints, how to test them (Postman, browser, etc.), and API keys setup
+
+---
+
+## 💡 Extra Tips
+
+* Use `header("Content-Type: application/json");` in all API responses.
+* Use **HTTP response codes** properly (`200`, `201`, `400`, `401`, `404`, `500`).
+* Use **password\_hash() / password\_verify()** for login authentication.
+* Test APIs using **Postman** or **cURL**.
+* For YouTube API, you’ll need a **Google Cloud API key**.
